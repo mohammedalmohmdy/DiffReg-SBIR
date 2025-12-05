@@ -1,0 +1,9 @@
+torch>=1.13
+torchvision>=0.14
+numpy
+pyyaml
+tqdm
+scikit-learn
+pillow
+matplotlib
+faiss-cpu
